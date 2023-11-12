@@ -3,7 +3,7 @@
 terraform {
  backend "s3" {
   /* bucket   =  */
-  // create an s3 bucket and get the nam
+  // create an s3 bucket and get the name
   key      = "web-name-ecs.tfstat"
   region   = "us-east-1"
   /* profile  =  */ //47.00
