@@ -19,8 +19,8 @@
 - terraform apply
 
   The VPC module is successfully created
+  
 ![Screenshot 2024-01-26 110407](https://github.com/Zakaria-Khuda-Dady/Terraform-Three-Tier/assets/148376197/7dbcea7c-09fc-4373-a674-eabb1927bd57)
-
 ![Screenshot 2024-01-26 110230](https://github.com/Zakaria-Khuda-Dady/Terraform-Three-Tier/assets/148376197/a7cc39b9-7fdd-43c2-abb5-fadcf77d0c43)
 ![Screenshot 2024-01-26 110239](https://github.com/Zakaria-Khuda-Dady/Terraform-Three-Tier/assets/148376197/a9a51cba-f716-4d99-863e-61e6e4481031)
 ![Screenshot 2024-01-26 110247](https://github.com/Zakaria-Khuda-Dady/Terraform-Three-Tier/assets/148376197/927fc148-2366-416c-8352-4bd70a538a25)
