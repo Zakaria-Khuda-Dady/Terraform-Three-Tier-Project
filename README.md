@@ -1,4 +1,7 @@
 # Terraform-Three-Tier
+
+A Terraform Three-Tier project typically refers to an infrastructure deployment using Terraform, a popular Infrastructure as Code (IaC) tool. The "Three-Tier" architecture is a common design pattern used in web applications, which divides the application into three main components or layers: presentation, application, and data.
+
 - Frist, I creatted a folder called (modules)
 - Then, I created another folder inside (modules) which is called (vpc)
 - Next, I created three files inside (vpc) folders which are called (main.tf, variables.tf, outputs.tf)
