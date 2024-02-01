@@ -1,5 +1,8 @@
 # Terraform-Three-Tier
 
+In this  project I will use Terraform Modules to build a 3 tier AWS network VPC with Public and Private Subnets, Internet Gateway, and Route Tables etc. 
+What is a Terraform Module:  Terraform modules allow you to use one code to create multiple resources.
+
 A Terraform Three-Tier project typically refers to an infrastructure deployment using Terraform, a popular Infrastructure as Code (IaC) tool. The "Three-Tier" architecture is a common design pattern used in web applications, which divides the application into three main components or layers: presentation, application, and data.
 
 - Frist, I created a folder called (modules)
